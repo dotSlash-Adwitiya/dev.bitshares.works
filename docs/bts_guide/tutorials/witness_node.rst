@@ -226,7 +226,7 @@ Steps
     witness-id = "1.6.10"
     private-key = ["GPH7vQ7GmRSJfDHxKdBmWMeDMFENpmHWKn99J457BNApiX1T5TNM8","5JGi7DM7J8fSTizZ4D9roNgd8dUc5pirUe9taxYCUUsnvQ4zCaQ"]
 
-.. Note::  Make sure to use YOUR public/private keys instead of the once given above!
+.. Note::  Make sure to use YOUR public/private keys instead of the ones given above!
 
 If you monitor the output of the ``witness_node``, you should see it generate blocks signed by your witness:
 
